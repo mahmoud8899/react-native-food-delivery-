@@ -1,0 +1,14 @@
+com/shopp/ReactNativeFlipper.java
+ com.shopp.ReactNativeFlipper
+ com.shopp.ReactNativeFlipper$1
+ com.shopp.ReactNativeFlipper$2
+ com.shopp.ReactNativeFlipper$2$1
+com/shopp/BuildConfig.java
+ com.shopp.BuildConfig
+com/shopp/MainActivity.java
+ com.shopp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/shopp/MainApplication.java
+ com.shopp.MainApplication
+ com.shopp.MainApplication$1

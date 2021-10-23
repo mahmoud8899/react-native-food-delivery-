@@ -1,0 +1,9 @@
+{
+  "name": "shopp",
+  "displayName": "shopp",
+  "splash": {
+    "image": "./data/image/payment/cart.png",
+    "resizeMode": "contain",
+    "backgroundColor": "red"
+  }
+}
